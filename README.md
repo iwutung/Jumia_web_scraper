@@ -11,7 +11,7 @@ Data is colleted on the most popular products in the main categories:
 'services', 'industrial-scientific', 'wholesale'
 
 Features extracted include:
-date,shop,shop_score,product_category,brand_name,product_name,product_image,product_details,rating,v_rating,price,shipping_cost,free_delivery,reviews,product_url
+date, shop, shop_score, product_category, brand_name, product_name, product_image, product_details, rating, v_rating, price, shipping_cost, free_delivery, reviews, product_url
 
 Preliminary data cleaning is done and the result is exported as csv in the current working directory as "test_file_"+date_today+".csv"
 
